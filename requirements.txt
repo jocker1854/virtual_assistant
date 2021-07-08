@@ -1,0 +1,11 @@
+wikipedia
+SpeechRecognition
+PyPDF2
+opencv-python
+pyjokes
+playsound
+pyttsx3
+gtts
+pynput
+PIL
+pywhatkit
